@@ -32,7 +32,7 @@ carpentry: "swc"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "FIXME"
+curriculum: "swc-gapminder"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
@@ -52,7 +52,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Software Carpentries @ TU Graz"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
@@ -106,7 +106,7 @@ workshop_site: "https://carpentries.github.io/workshop-template"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
-pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
+pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug=2022-02-16-TU_Graz-online"
 post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug="
 instructor_pre_survey: "https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id="
 instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id="
